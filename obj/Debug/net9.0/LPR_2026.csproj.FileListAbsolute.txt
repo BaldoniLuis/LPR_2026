@@ -1,0 +1,5 @@
+C:\Users\alunos\OneDrive\Desktop\LPR_2026\obj\Debug\net9.0\LPR_2026.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunos\OneDrive\Desktop\LPR_2026\obj\Debug\net9.0\LPR_2026.AssemblyInfoInputs.cache
+C:\Users\alunos\OneDrive\Desktop\LPR_2026\obj\Debug\net9.0\LPR_2026.AssemblyInfo.cs
+C:\Users\alunos\OneDrive\Desktop\LPR_2026\obj\Debug\net9.0\LPR_2026.csproj.CoreCompileInputs.cache
+C:\Users\alunos\OneDrive\Desktop\LPR_2026\obj\Debug\net9.0\LPR_2026.sourcelink.json
