@@ -1,11 +1,4 @@
-class Exercicio1
-{
-    public static void Executar()
-    {
-
-
-
-        int[] numeros = new int[10];
+﻿        int[] numeros = new int[10];
 
         List<int> paresLista = new List<int>();
         List<int> imparesLista = new List<int>();
@@ -38,5 +31,3 @@ class Exercicio1
 
         Console.Write("ÍMPAR: ");
         Console.WriteLine(string.Join(" ", vetorImpares));
-    }
-} 
