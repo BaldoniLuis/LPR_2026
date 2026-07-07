@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alunos\\OneDrive\\Desktop\\LPR_2026\\LPR_aula7\\teste.csproj",
-      "projectName": "teste",
-      "projectPath": "C:\\Users\\alunos\\OneDrive\\Desktop\\LPR_2026\\LPR_aula7\\teste.csproj",
+      "projectUniqueName": "C:\\Users\\alunos\\OneDrive\\Desktop\\LPR_2026\\LPR_aula7\\LPR_aula7.csproj",
+      "projectName": "LPR_aula7",
+      "projectPath": "C:\\Users\\alunos\\OneDrive\\Desktop\\LPR_2026\\LPR_aula7\\LPR_aula7.csproj",
       "packagesPath": "C:\\Users\\alunos\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\alunos\\OneDrive\\Desktop\\LPR_2026\\LPR_aula7\\obj\\",
       "projectStyle": "PackageReference",
