@@ -91,7 +91,6 @@ Além de servir como material de estudo, este repositório funciona como um hist
 
 - C#
 - C++
-- Visual Studio
 - Visual Studio Code
 - Git
 - GitHub
