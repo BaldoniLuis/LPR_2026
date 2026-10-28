@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alunos\\OneDrive\\Desktop\\LPR_2026\\LPR_aula9\\LPR_aula9.csproj": {}
+    "C:\\LPR_2026\\LPR_aula9\\LPR_aula9.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alunos\\OneDrive\\Desktop\\LPR_2026\\LPR_aula9\\LPR_aula9.csproj": {
+    "C:\\LPR_2026\\LPR_aula9\\LPR_aula9.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alunos\\OneDrive\\Desktop\\LPR_2026\\LPR_aula9\\LPR_aula9.csproj",
+        "projectUniqueName": "C:\\LPR_2026\\LPR_aula9\\LPR_aula9.csproj",
         "projectName": "LPR_aula9",
-        "projectPath": "C:\\Users\\alunos\\OneDrive\\Desktop\\LPR_2026\\LPR_aula9\\LPR_aula9.csproj",
+        "projectPath": "C:\\LPR_2026\\LPR_aula9\\LPR_aula9.csproj",
         "packagesPath": "C:\\Users\\alunos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alunos\\OneDrive\\Desktop\\LPR_2026\\LPR_aula9\\obj\\",
+        "outputPath": "C:\\LPR_2026\\LPR_aula9\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
